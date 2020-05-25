@@ -1,0 +1,15 @@
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\bin\Debug\SpyWare.exe.config
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\bin\Debug\SpyWare.exe
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\bin\Debug\SpyWare.pdb
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\bin\Debug\protobuf-net.dll
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\bin\Debug\protobuf-net.xml
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\obj\Debug\SpyWare.csprojAssemblyReference.cache
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\obj\Debug\SpyWare.Form1.resources
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\obj\Debug\SpyWare.Properties.Resources.resources
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\obj\Debug\SpyWare.csproj.GenerateResource.cache
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\obj\Debug\SpyWare.csproj.CoreCompileInputs.cache
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\obj\Debug\SpyWare.csproj.CopyComplete
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\obj\Debug\SpyWare.exe
+C:\Users\mtgin\source\repos\BlazorTest1\SpyWare\obj\Debug\SpyWare.pdb

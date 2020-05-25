@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/X28VpRSzBmNvosmGk98XVCRk7ier2J3/+NK8+UgU7Aw9AiXtFTNyzSx1ASGNjeHVAmM9JHBia3ZG0FpMeJKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mtgin\\source\\repos\\BlazorTest1\\SpyWareServer\\SpyWareServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mtgin\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\mtgin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mtgin\\.nuget\\packages\\protobuf-net\\2.4.6\\protobuf-net.2.4.6.nupkg.sha512",
+    "C:\\Users\\mtgin\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\mtgin\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\mtgin\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\mtgin\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512",
+    "C:\\Users\\mtgin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
